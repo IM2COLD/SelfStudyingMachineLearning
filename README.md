@@ -14,5 +14,8 @@
 - 확률적 경사하강법에 대한 파트에서 gradient descent에 대한 설명이 생략된 부분들이 많아 아쉬웠다.
 
 
+![image](https://github.com/IM2COLD/SelfStudyingMachineLearning/assets/114397640/650cd9c5-af18-4bc8-8c8c-bd24dce805ff)
+책에서 설명이 부족한 부분들은 Chat_GPT를 통해 궁금증을 해결했는데, 이 과정에서  Chat_GPT의 문맥 이해 능력에 놀라움을 느꼈다.
+
 #### 총평
 - 개념의 전반적인 내용을 숙지한 상태에서 천천히 코드를 타이핑해보며 알고 있던 지식을 확인하면서 머신러닝의 각 알고리즘을 쉽게 이해하기 위한 용도로 읽으면 좋은 책이다.
