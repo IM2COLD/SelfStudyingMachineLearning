@@ -1,6 +1,6 @@
 # SelfStudyingMachineLearning
 ### **혼자 공부하는 머신러닝 + 딥러닝 & 혼자 공부하는 데이터 분석**
-![image](https://github.com/IM2COLD/SelfStudyingMachineLearning/assets/114397640/0c9cc42b-b24e-49eb-93a5-c2848887391f)
+![image](![image](https://github.com/IM2COLD/SelfStudyingMachineLearning/assets/114397640/55dd338f-38ff-47b6-91db-aef210bac1a3))
 
 ![image](https://github.com/IM2COLD/SelfStudyingMachineLearning/assets/114397640/1189b6b3-dd05-4872-a958-255dd90b7ad1)
 
