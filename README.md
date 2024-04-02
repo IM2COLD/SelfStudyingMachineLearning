@@ -1,6 +1,8 @@
 # SelfStudyingMachineLearning
-### **혼자 공부하는 머신러닝 + 딥러닝**
+### **혼자 공부하는 머신러닝 + 딥러닝 & 혼자 공부하는 데이터 분석**
 ![image](https://github.com/IM2COLD/SelfStudyingMachineLearning/assets/114397640/0c9cc42b-b24e-49eb-93a5-c2848887391f)
+
+![image](https://github.com/IM2COLD/SelfStudyingMachineLearning/assets/114397640/1189b6b3-dd05-4872-a958-255dd90b7ad1)
 
 #### 컴퓨터 과학 분야는 빠르게 발전하고 있으며 머신러닝과 딥러닝 분야는 전체 컴퓨터 과학 분야의 속도보다 훨씬 빠르게 발전하고 있습니다. **"어떤 분야가 성숙하고 고도로 발전할수록 처음 배울 때 드는 노력은 점점 커집니다. 지금 이 책을 들었을 때가 최적의 순간입니다."** 머신러닝과 딥러닝을 배우고 이 여행선에 함께 탑승하시죠! - 저자의 말
 
